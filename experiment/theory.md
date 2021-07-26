@@ -1,15 +1,12 @@
 Genome sequence analysis of several organisms and high throughput screening of X-ray structure analysis provided scientific information about structural and sequence information of several proteins which are applicable in understanding fundamentals of evolution theories and structure predictions. In a broader sense, sequence analysis is the simplest approach for discovering structural, functional and evolutionary relationships of proteins. Alignment-based approaches for comparing protein sequence included algorithm to produce alignments and amino acid substitution matrices for scoring aligned amino acid residues.  
-&nbsp;
-&nbsp;
 
 A biological sequence alignment represents relationship between a pair of deoxyribonucleic acid (DNA) or protein sequences. It compares two or more sequences by finding series of individual patterns in the same order of sequences of interest. In global sequence alignment, the entire sequence (end to end) is aligned in the given query or target sequence. Sequences having approximately same length or quite similar sequences, which is closely related sequences were suitable for global alignment. This includes comparison of homologous genes or proteins with similar function. A general global alignment technique is Needleman – Wunsch algorithm. In local alignment, distantly related sequences were aligned to find out regions with highest similarity in sequences identify conserved regions. The Smith- Waterman algorithm is a general local alignment algorithm. Needleman-Wunsch and Smith-Waterman algorithms for sequence alignment are dynamic programming approach as the alignment was performed in a more quantitative manner. Basically all alignments needs to have comparisons for matches and mismatches and scoring matrices are aligned to have scores for sequence comparison. In 1970’s, constructing scoring matrices has become a key aspect in sequence alignment and comparison, psychochemical and three-dimensional structural properties of aminoacids were taken to consideration for computing scoring matrices. The scores in the matrix were integer values, were positive score indicates similar or identical sequences, and negative or zero score indicates dissimilar pairs. This represents simplest scoring scheme and is noted as identity scoring matrix. In molecular biology, scores are defined as sequence similarity. There are many other scoring matrices which are predefined mostly, used in the case of amino acid substitutions. In general, an alignment score defines sum of scores given for pairs of nucleotide or amino acids substitution scores in a sequence alignment and gap scores for null characters inserted in a sequence. There are different ways that introduce mutational process in aminoacids that leads to aminoacids substitutions, including, altering of DNA sequence that encodes a specific protein, changes in the chemical properties of aminoacids, silent and non-silent substitutions in the given sequences. 
 
-&nbsp;
-&nbsp;
-
 Scoring matrices that were used ad default parameters in alignment tools such as EMBOSS Needle, Clustal Omega, Muscle, T-Coffee, MAFFT and homology search tools such as FASTA, BLAST are termed as General purpose amino acid substitution scoring matrices. Examples include PAM, BLOSUM, MD and VTML series of matrices. 
 &nbsp;
+
 &nbsp;
+
 
 **Percent/Point Accepted Mutation (PAM)**
 &nbsp;
@@ -25,6 +22,7 @@ Margaret Dayhoff and co-workers introduced PAM model in 1978, a family of substi
 
 •	Higher PAM numbers denotes larger evolutionary distances.
 &nbsp;
+
 &nbsp;
 
 **BLOSUM**
