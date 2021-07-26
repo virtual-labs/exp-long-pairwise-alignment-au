@@ -1,1 +1,87 @@
-[{"question":"1.This is a sample question:","answers":{"a":"This is a sample answer A","b":"This is a sample answer B"},"correctAnswer":"a"},{"question":"<img src='images/8.PNG'><br>Identify the location of Secondary electron detector","answers":{"a":"<img src='images/1b.png'>","b":"<img src='images/1a.png'>","c":"<img src='images/1c.PNG'>"},"correctAnswer":"c"}]
+[
+    {
+    "question":"1. In pairwise sequence alignment, score represents ?",
+    
+    "answers":
+    {
+    "a":"Degree of similarity",
+    "b":"Degree of dissimilarity",
+    "c":"Presence of unconserved motifs",
+    "d":"None of the above"
+    },
+    "correctAnswer":"a"
+    },
+    
+   
+   
+    {
+    "question":
+    "2. Example(s) of pairwise sequence alignment.",
+    
+    "answers":
+    {
+    "a":"Needleman_Wunch",
+    "b":"Smith waterman",
+    "c":"Clustal W",
+    "d":"All the above"
+    },
+    
+    "correctAnswer":"d"
+    }
+
+
+  
+  
+    {
+        "question":
+        "3. BLOSUM indicates.",
+        
+        "answers":
+        {
+        "a":"Blast Operation for SUMmation",
+        "b":"BLocks SUBstitution Matrix",
+        "c":"Bioinformatics Linkage of Substitution Matrix",
+        "d":"None of the above"
+        },
+        
+        "correctAnswer":"b"
+        }
+
+
+
+
+   {
+    "question":
+    "4. BLOSUM 50 in sequence alignment functions for.",
+    
+    "answers":
+    {
+    "a":"Insertion",
+    "b":"Deletion",
+    "c":"Substitution",
+    "d":"Mutation"
+    },
+    
+    "correctAnswer":"c"
+    }     
+
+
+
+
+    {
+        "question":
+        "5. PAM indicates.",
+        
+        "answers":
+        {
+        "a":"Point Assumption Model",
+        "b":"Point Accepted Mutation",
+        "c":"Percent Added Model",
+        "d":"Percent Accepted Mutation"
+        },
+        
+        "correctAnswer":"b"
+        }
+
+    ]
+    

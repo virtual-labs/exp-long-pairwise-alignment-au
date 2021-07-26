@@ -1,1 +1,71 @@
-[{"question":"1.This is a sample question:","answers":{"a":"This is a sample answer A","b":"This is a sample answer B"},"correctAnswer":"a"},{"question":"<img src='images/8.PNG'><br>Identify the location of Secondary electron detector","answers":{"a":"<img src='images/1b.png'>","b":"<img src='images/1a.png'>","c":"<img src='images/1c.PNG'>"},"correctAnswer":"c"}]
+[
+    {
+    "question":"1. In sequence alignment, gaps are represented as",
+    
+    "answers":
+    {
+    "a":"(-)",
+    "b":"0",
+    "c":"+",
+    "d":"*"
+    },
+    "correctAnswer":"a"
+    },
+    
+   
+   
+    {
+    "question":
+    "2. PAM matrix rely on .",
+    
+    "answers":
+    {
+    "a":"Local alignment of protein sequence",
+    "b":"Global alignment of protein sequences",
+    "c":"Insertion of protein sequences",
+    "d":"All the above"
+    },
+    
+    "correctAnswer":"b"
+    }
+
+
+  
+  
+    {
+        "question":
+        "3. Higher PAM numbers denotes.",
+        
+        "answers":
+        {
+        "a":"Smaller evolutionary distances",
+        "b":"Regions of similar sequences",
+        "c":"Larger evolutionary distances",
+        "d":"Dissimilar regions of protein sequences"
+        },
+        
+        "correctAnswer":"c"
+        }
+
+
+
+
+   {
+    "question":
+    "4. In BLOSUM matrix blocks represents.",
+    
+    "answers":
+    {
+    "a":"Evolutionary relationships",
+    "b":"Unconserved motif regions",
+    "c":"Conserved motif regions",
+    "d":"Dissimilarity in protein sequence"
+    },
+    
+    "correctAnswer":"c"
+    }     
+
+
+
+
+    ]
