@@ -1,31 +1,87 @@
 [
     {
-    "question":"1. How to read sequence data file without any library?",
+    "question":"1. In pairwise sequence alignment, score represents ?",
     
     "answers":
     {
-    "a":"csv.read",
-    "b":"read.csv ( )",
-    "c":"readcsv ( )",
-    "d":"get.csv ( )"
+    "a":"Degree of similarity",
+    "b":"Degree of dissimilarity",
+    "c":"Presence of unconserved motifs",
+    "d":"None of the above"
     },
-    "correctAnswer":"b"
+    "correctAnswer":"a"
     },
     
+   
+   
     {
     "question":
-    "2. Function used for writing sequence data without any library",
+    "2. Example(s) of pairwise sequence alignment.",
     
     "answers":
     {
-    "a":"writefile ( )",
-    "b":"write.csv ( )",
-    "c":"output.csv ( )",
-    "d":"file.csv ( )"
+    "a":"Needleman_Wunch",
+    "b":"Smith waterman",
+    "c":"Clustal W",
+    "d":"All the above"
     },
     
-    "correctAnswer":"b"
+    "correctAnswer":"d"
     }
+
+
+  
+  
+    {
+        "question":
+        "3. BLOSUM indicates.",
+        
+        "answers":
+        {
+        "a":"Blast Operation for SUMmation",
+        "b":"BLocks SUBstitution Matrix",
+        "c":"Bioinformatics Linkage of Substitution Matrix",
+        "d":"None of the above"
+        },
+        
+        "correctAnswer":"b"
+        }
+
+
+
+
+   {
+    "question":
+    "4. BLOSUM 50 in sequence alignment functions for.",
+    
+    "answers":
+    {
+    "a":"Insertion",
+    "b":"Deletion",
+    "c":"Substitution",
+    "d":"Mutation"
+    },
+    
+    "correctAnswer":"c"
+    }     
+
+
+
+
+    {
+        "question":
+        "5. PAM indicates.",
+        
+        "answers":
+        {
+        "a":"Point Assumption Model",
+        "b":"Point Accepted Mutation",
+        "c":"Percent Added Model",
+        "d":"Percent Accepted Mutation"
+        },
+        
+        "correctAnswer":"b"
+        }
 
     ]
     
