@@ -17,8 +17,7 @@ Margaret Dayhoff and co-workers introduced PAM model in 1978, a family of substi
 •	PAM matrix rely on explicit evolutionary model.
 &nbsp;
 
-•	Based on global alignments of sequences for finding mutations including highly conserved and highly mutable regions of closely related proteins.
-&nbsp;
+•	Based on global alignments of sequences for finding mutations including highly conserved and highly mutable regions of closely related proteins.&nbsp;
 
 •	Higher PAM numbers denotes larger evolutionary distances.
 &nbsp;
