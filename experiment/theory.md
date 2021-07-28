@@ -21,7 +21,6 @@ Margaret Dayhoff and co-workers introduced PAM model in 1978, a family of substi
 &nbsp;
 
 •	Higher PAM numbers denotes larger evolutionary distances.
-&nbsp;
 
 
 **BLOSUM**
