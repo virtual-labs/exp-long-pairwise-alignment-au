@@ -85,3 +85,4 @@ Sequence 2 - keratin [Rattus norvegicus]
      Pairwise align the sequences with gap values input
      
      Assign the alignment data into a matrix
+
