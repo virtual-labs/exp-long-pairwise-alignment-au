@@ -21,12 +21,11 @@ Margaret Dayhoff and co-workers introduced PAM model in 1978, a family of substi
 &nbsp;
 
 •	Higher PAM numbers denotes larger evolutionary distances.
-&nbsp;
 
-&nbsp;
+
 
 **BLOSUM**
 &nbsp;
 &nbsp;
 
-BLOSUM ( BLOck SUbstitution Matrices) were developed by Henikoff and Henikoff in 1992. It was based on highly conserved local alignment of sequences. BLOSUM matrices have ungapped alignments;blocks., that were derived from evolutionary divergent family of protein sequences. Blocks represents the conserved regions within related proteins that were assumed to be of higher functional relevance. More constrained regions of amino acid sequences were likely have related structure and function. Aminoacid substitution frequencies in bocks were calculated to produce a numeraical table, block substritution matrix. Lower value of BLOSUM number indictaes more divergent sequences. BLOSUM 62 is the most widely used matrix. BLOSUM 62 indicates protein sequences clustered with greater than 62% identity and BLOSUM 80 indicates sequences clustered with greater than 80% identity. Positive BLOSUM score in matrix indicates substitutions occurring more frequently than expected in evolutionary conserved replacements. Larger numbers in matrices denotes higher sequence similarity and smallest evolutionary distances. 
+BLOSUM (BLOck SUbstitution Matrices) were developed by Henikoff and Henikoff in 1992. It was based on highly conserved local alignment of sequences. BLOSUM matrices have ungapped alignments;blocks., that were derived from evolutionary divergent family of protein sequences. Blocks represents the conserved regions within related proteins that were assumed to be of higher functional relevance. More constrained regions of amino acid sequences were likely have related structure and function. Aminoacid substitution frequencies in bocks were calculated to produce a numeraical table, block substritution matrix. Lower value of BLOSUM number indictaes more divergent sequences. BLOSUM 62 is the most widely used matrix. BLOSUM 62 indicates protein sequences clustered with greater than 62% identity and BLOSUM 80 indicates sequences clustered with greater than 80% identity. Positive BLOSUM score in matrix indicates substitutions occurring more frequently than expected in evolutionary conserved replacements. Larger numbers in matrices denotes higher sequence similarity and smallest evolutionary distances. 
